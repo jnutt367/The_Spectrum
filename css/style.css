@@ -1,0 +1,38 @@
+* {
+	box-sizing: border-box;
+	display: grid;
+	justify-content: center;
+	align-items: center;
+}
+body {
+	background-image: url("../images/autistic-society-autism.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.flex-nav-list {
+	background-color: blue;
+	color: white;
+	display: flex;
+	justify-content: space-between;
+	text-decoration: none;
+}
+.flex-nav-list a{
+	margin-top: 0;
+	text-decoration: none;
+	padding: 10px;
+	color: white;
+}
+
+.resources {
+	height: 300px;
+	width: 100%;
+	background-image: url("../images/aspergers-syndrome.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: right;
+}
+.resources a {
+	text-decoration: none;
+	color: white;
+	font-size: 30px;
+}
