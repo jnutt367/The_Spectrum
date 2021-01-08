@@ -5,7 +5,7 @@
 	align-items: center;
 }
 body {
-	background-image: url("../images/autistic-society-autism.jpg");
+	background-image: url("../images/");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -25,7 +25,7 @@ body {
 
 .resources {
 	height: 300px;
-	width: 100%;
+	
 	background-image: url("../images/aspergers-syndrome.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
