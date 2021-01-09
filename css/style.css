@@ -11,14 +11,25 @@ body {
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+
+	
+
+
 h1, h2, h3, p {
 	padding-left: 20px;
 	padding-bottom: 15px;
 }
+nav {
+	margin-bottom: 50px;
+}
+
 button {
 	background-color: blue;
 	color: white;
 	padding: 10px;
+}
+.nav-links a{
+	color: white;
 }
 .alert p{
 	color: green;
