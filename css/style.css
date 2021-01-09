@@ -15,6 +15,7 @@ h1, h2, h3, p {
 	padding-bottom: 15px;
 }
 .flex-nav-list {
+	margin-bottom: 100px;
 	background-color: blue;
 	color: white;
 	display: flex;
@@ -28,7 +29,9 @@ h1, h2, h3, p {
 	padding: 10px;
 	color: white;
 }
-
+header {
+	margin-bottom: 50px;
+}
 .resources {
 	
 	
