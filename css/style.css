@@ -32,9 +32,11 @@ h1, h2, h3, p {
 header {
 	margin-bottom: 50px;
 }
+
 .resources {
 	
-	
+	padding-top: 100px;
+	padding-bottom: 100px;
 	background-image: url("../images/aspergers-syndrome.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -47,4 +49,9 @@ header {
 	text-decoration: none;
 	color: white;
 	font-size: 30px;
+}
+footer {
+	height: 400px;
+	padding-top: 100px;
+	padding-bottom: 200px;
 }
