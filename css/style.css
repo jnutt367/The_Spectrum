@@ -4,15 +4,22 @@
 	display: grid;
 	justify-content: center;
 	align-items: center;
+	color: white;
 }
 body {
-	background-image: url("../images/");
+	background-image: url("../images/color_spectrum_bands_vertical.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 h1, h2, h3, p {
 	padding-left: 20px;
 	padding-bottom: 15px;
+}
+button {
+	background-color: green;
+	color: white;
+	padding: 10px;
+	
 }
 .flex-nav-list {
 	margin-bottom: 100px;
