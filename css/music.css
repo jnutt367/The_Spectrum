@@ -10,6 +10,16 @@
 body {
 	background-image: url("../images/autistic-spectrum-jigsaw-puzzle-logo.jpg");
 }
+h1 {
+	color: purple;
+}
+input {
+	font-size: 25px;
+	margin-bottom: 50px;
+	padding: 5px;
+	border: 1px solid black;
+	color: blue;
+}
 .flex-nav-list {
 	margin-bottom: 100px;
 	background-color: blue;
@@ -18,4 +28,11 @@ body {
 	flex-wrap: wrap;
 	justify-content: space-between;
 	text-decoration: none;
+}
+.grid-container {
+	display: grid;
+	justify-content: center;
+	align-items: center;
+	grid-gap: 30px;
+	margin-bottom: 50px;
 }
