@@ -7,14 +7,13 @@
 	color: black;
 }
 body {
-	margin-left: 25px;
+	background-image: url("../icons/");
 	padding-left: 45px;
 	padding-right: 15px;
 	padding-bottom: 15px;
 	background-color: skyblue;
-	
-	background-repeat: no-repeat;
-	background-size: cover;
+	/*background-repeat: no-repeat;
+	background-size: cover;*/
 }
 
 	
@@ -35,9 +34,7 @@ button {
 	color: white;
 	padding: 10px;
 }
-.nav-links a{
-	color: white;
-}
+
 .alert p{
 	color: green;
 }
@@ -57,6 +54,7 @@ button {
 	color: white;
 }
 header {
+	font-family: 'Lobster', cursive;
 	margin-bottom: 50px;
 }
 
