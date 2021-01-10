@@ -5,35 +5,28 @@
 	justify-content: center;
 	align-items: center;
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: cover; 
 }
 body {
-	background-image: url("../images/autistic-spectrum-jigsaw-puzzle-logo.jpg");
+	background-image: url("../icons/black-music.jpg");
 }
 h1 {
 	color: purple;
 }
 input {
-	font-size: 25px;
+	font-size: 15px;
+	width: 200px;
 	margin-bottom: 50px;
 	padding: 5px;
 	border: 1px solid black;
 	color: blue;
 }
-.flex-nav-list {
-	margin-bottom: 100px;
-	background-color: blue;
-	color: white;
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-between;
-	text-decoration: none;
-}
+
 .grid-container {
 	display: grid;
 	margin-top: 50px;
 	justify-content: center;
 	align-items: center;
-	grid-gap: 30px;
+	grid-gap: 50px;
 	margin-bottom: 50px;
 }

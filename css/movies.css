@@ -4,7 +4,30 @@
 	display: grid;
 	justify-content: center;
 	align-items: center;
-	background-repeat: no-repeat;
-	background-size: cover;
+	/*background-repeat: no-repeat;
+	background-size: cover; */
+}
+body {
+	background-image: url("../icons/movie-film.png");
+}
+h1 {
+	color: purple;
+}
+input {
+	font-size: 15px;
+	width: 200px;
+	margin-bottom: 50px;
+	padding: 5px;
+	border: 1px solid black;
+	color: blue;
+}
+
+.grid-container {
+	display: grid;
+	margin-top: 50px;
+	justify-content: center;
+	align-items: center;
+	grid-gap: 50px;
+	margin-bottom: 50px;
 }
 
