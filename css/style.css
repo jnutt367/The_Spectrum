@@ -7,6 +7,9 @@
 	color: black;
 }
 body {
+	padding-left: 25px;
+	padding-right: 15px;
+	padding-bottom: 15px;
 	background-image: url("../images/");
 	background-repeat: no-repeat;
 	background-size: cover;
