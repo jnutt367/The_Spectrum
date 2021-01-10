@@ -29,6 +29,7 @@ nav {
 }
 
 button {
+	padding-left: 100px;
 	cursor: pointer;
 	background-color: transparent;
 	color: white;
