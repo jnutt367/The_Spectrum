@@ -11,7 +11,8 @@ body {
 	padding-left: 45px;
 	padding-right: 15px;
 	padding-bottom: 15px;
-	background-image: url("../images/");
+	background-color: skyblue;
+	
 	background-repeat: no-repeat;
 	background-size: cover;
 }
