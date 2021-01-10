@@ -79,6 +79,9 @@ header {
 .resources button {
 	width: 400px;
 }
+.col-md-6 {
+        margin-left: 50px;
+}
 .col-md-6 img {
 	height: 50px;
 	width: 200px;
