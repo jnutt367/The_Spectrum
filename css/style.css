@@ -24,6 +24,7 @@ nav {
 }
 
 button {
+	cursor: pointer;
 	background-color: transparent;
 	color: white;
 	padding: 10px;
@@ -69,6 +70,13 @@ header {
 	text-decoration: none;
 	color: white;
 	font-size: 30px;
+}
+.resources button {
+	width: 400px;
+}
+.col-md-6 img {
+	height: 50px;
+	width: 200px;
 }
 footer {
 	height: 400px;
